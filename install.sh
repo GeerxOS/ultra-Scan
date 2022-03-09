@@ -6,3 +6,4 @@ sudo apt install fierce
 sudo apt install unicornscan
 sudo apt install dmitry
 sudo apt install nikto
+bash ultraScan.sh
